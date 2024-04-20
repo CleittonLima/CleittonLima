@@ -49,7 +49,7 @@
 <br></div>
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=fff&animation=twinkling&fontAlignY=50&fontSize=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=000&animation=twinkling&fontAlignY=50&fontSize=30"/>
 
 <div>
   <img height="20" src="https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
