@@ -30,7 +30,7 @@
 
 ## *IDE* 💻
 <div style="display: inline_block"><br>
-  <img align="center" alt=Eclipse1" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <!--<img align="center" alt=Eclipse1" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />-->
   <img align="center" alt=Pycharm1" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
   <img align="center" alt=VSCode1" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
